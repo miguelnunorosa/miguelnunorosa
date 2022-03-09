@@ -19,12 +19,15 @@ At this moment I'm salesforce student, starting a new carreer on development (we
 <br><br> 
 
 <details> <summary><b>GitHub Stats</b></summary>
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=miguelnunorosa&count_private=true&show_icons=truehow_icons=true&hide_border=true" /> <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=miguelnunorosa&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/>  <br>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=miguelnunorosa&count_private=true&show_icons=truehow_icons=true&hide_border=true" /> <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=miguelnunorosa&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/> <br>
 </details>
 
 <details> <summary><b>GitHub Details</b></summary>
 
-...
+![Metrics](https://metrics.lecoq.io/miguelnunorosa?template=classic&base.header=0&isocalendar=1&languages=1&achievements=1&pagespeed=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FLisbon)
+
 
 </details> 
+
+
 
