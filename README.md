@@ -2,7 +2,6 @@
 
 <img align="right" alt="Coder GIF" height=300 width=400 src="https://github.com/miguelnunorosa/miguelnunorosa/blob/main/code2.gif" />
 
-![Years Badge](https://badges.pufler.dev/years/miguelnunorosa/?color=white) ![Repos Badge](https://badges.pufler.dev/repos/miguelnunorosa/?color=white) ![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges/?color=white) ![Visits Badge](https://badges.pufler.dev/visits/miguelnunorosa/miguelnunorosa/?color=white)
 
 Welcome to my github repository. My name is Miguel, I'm from Portugal. <br>
 
