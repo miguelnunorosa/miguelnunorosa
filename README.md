@@ -12,7 +12,7 @@ At this moment I'm salesforce student, starting a new carreer on development (we
 - 📝 Checkout my [Resume / CV](https://#) 
 - 📃 Checkout my [Portfolio](https://miguelnunorosa.github.io)
 - 📫 How to reach me [Mail](mailto:miguelrosa.programacao@gmail.com)
-- Social media: <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Facebook" width="20" height="20"/></a> <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="20" height="20"/></a> <a href="https://github.com/miguelnunorosa" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="20" height="20"/></a> <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube" width="20" height="20"/></a>
+- Social media: <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Facebook" width="20" height="20"/></a> <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="20" height="20"/></a> <a href="https://github.com/miguelnunorosa" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="20" height="20"/></a> <a href="https://www.youtube.com/channel/UC3WfNiNqQxGfiRnf2znRldQ" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube" width="20" height="20"/></a>
  
 
 
