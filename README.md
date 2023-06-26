@@ -5,14 +5,18 @@
 
 Welcome to my github repository. My name is Miguel, I'm from Portugal. <br>
 
-At this moment I'm salesforce student, starting a new carreer on development (web and mobile). Loving technology since 90's, using Linux (since 2006 - started with Debian, now I use Slackware) on all machines with **FOSS** (Free Open Source Software). I love minimalism and simplicity! (following **KISS** philosophy - Keep it simple stupid) 😄
+At this moment I try to starting a new carreer on development (web and mobile). Loving technology since 90's, using Linux (since 2006 - started with Debian, now I use Slackware/Ubuntu) on all machines with **FOSS** (Free Open Source Software). I love minimalism and simplicity! (following **KISS** philosophy - Keep it simple stupid) 😄
 
 <br>
 
 - 📝 Checkout my [Resume / CV](https://#) 
 - 📃 Checkout my [Portfolio](https://miguelnunorosa.github.io)
 - 📫 How to reach me [Mail](mailto:miguelrosa.programacao@gmail.com)
-- Social media: <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Facebook" width="20" height="20"/></a> <a href="" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="20" height="20"/></a> <a href="https://github.com/miguelnunorosa" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="20" height="20"/></a> <a href="https://www.youtube.com/channel/UC3WfNiNqQxGfiRnf2znRldQ" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube" width="20" height="20"/></a>
+- Social media:
+<a href="https://www.facebook.com/miguelnunorosa" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Facebook" width="20" height="20"/></a>
+<a href="https://www.linkedin.com/in/miguel-nuno-rosa/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="20" height="20"/></a>
+<a href="https://github.com/miguelnunorosa" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="20" height="20"/></a>
+<a href="https://www.youtube.com/channel/UC3WfNiNqQxGfiRnf2znRldQ" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube" width="20" height="20"/></a>
  
 
 
