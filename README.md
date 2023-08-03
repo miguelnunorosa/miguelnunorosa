@@ -5,7 +5,7 @@
 
 ### :technologist: About Me :
 
-Welcome to my github repository. My name is Miguel, I'm from Portugal. <br>
+Welcome to my GitHub repository. My name is Miguel, I'm from Portugal. <br>
 
 At this moment I try to start a new career in development (web and mobile). Loving technology since the '90s, using Linux (since 2006 - started with OpenSUSE, now I use Ubuntu) on all machines with **FOSS** (**F**ree **O**pen **S**ource **S**oftware). I love minimalism and simplicity! (following **KISS** philosophy - **K**eep **I**t **S**imple **S**tupid) 😄
 
@@ -13,6 +13,7 @@ At this moment I try to start a new career in development (web and mobile). Lovi
 
 - :desktop_computer: Learn mobile development (native and multiplatform)
 - :desktop_computer: Learn web development (back-end technologies and their frameworks)
+- :basecamp: Learn Salesforce (Trailhead)
 - :guitar: In my free time, I play Bass guitar (or trying to...), read (mostly crime books and thrillers), and do some challenges on algorithm and code platforms (for example, Codewars platform)
 
 <br>
@@ -59,7 +60,7 @@ Contacts:
 <br><br> 
 
 
-## GitHub Stats
+## :dependabot: GitHub Stats
 
 [![](https://streak-stats.demolab.com?user=miguelnunorosa&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=miguelnunorosa&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelnunorosa&layout=compact)
