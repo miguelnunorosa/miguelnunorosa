@@ -7,18 +7,25 @@
 
 Welcome to my github repository. My name is Miguel, I'm from Portugal. <br>
 
-At this moment I try to start a new career in development (web and mobile). Loving technology since the '90s, using Linux (since 2006 - started with Debian, now I use Ubuntu) on all machines with **FOSS** (**F**ree **O**pen **S**ource **S**oftware). I love minimalism and simplicity! (following **KISS** philosophy - **K**eep **I**t **S**imple **S**tupid) 😄
+At this moment I try to start a new career in development (web and mobile). Loving technology since the '90s, using Linux (since 2006 - started with OpenSUSE, now I use Ubuntu) on all machines with **FOSS** (**F**ree **O**pen **S**ource **S**oftware). I love minimalism and simplicity! (following **KISS** philosophy - **K**eep **I**t **S**imple **S**tupid) 😄
 
 <br>
+
+- :desktop_computer: Learn mobile development (native and multiplatform)
+- :desktop_computer: Learn web development (back-end technologies and thier frameworks)
+- :guitar: On my free time, I play Bass guitar (or trying to...), read (mostly crime books and thrillers) and do some challenges on algorithm and code platforms (for example, Codewars platform)
+
+<br>
+
+Contacts:
 
 - 📝 Checkout my [Resume / CV](https://#) 
 - 📃 Checkout my [Portfolio](https://miguelnunorosa.github.io)
 - 📫 How to reach me [Mail](mailto:miguelrosa.programacao@gmail.com)
 - Social media:
-<a href="https://www.facebook.com/miguelnunorosa" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Facebook" width="20" height="20"/></a>
-<a href="https://www.linkedin.com/in/miguel-nuno-rosa/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="20" height="20"/></a>
-<a href="https://github.com/miguelnunorosa" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="20" height="20"/></a>
-<a href="https://www.youtube.com/channel/UC3WfNiNqQxGfiRnf2znRldQ" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Youtube" width="20" height="20"/></a>
+<a href="https://www.facebook.com/miguelnunorosa" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Java" width="40" height="40"/>&nbsp;</a>
+<a href="https://www.linkedin.com/in/miguel-nuno-rosa/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Java" width="40" height="40"/>&nbsp;</a>
+<a href="https://www.youtube.com/channel/UC3WfNiNqQxGfiRnf2znRldQ" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/youtube/youtube-original.svg" title="Facebook" alt="Java" width="40" height="40"/>&nbsp;</a>
  
 
 
@@ -52,7 +59,12 @@ At this moment I try to start a new career in development (web and mobile). Lovi
 
 
 ## GitHub Stats
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=miguelnunorosa&count_private=true&show_icons=truehow_icons=true&hide_border=true" /> <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=miguelnunorosa&hide_border=true&dates=478AF0&ring=478AF0&fire=DD2727&currStreakLabel=DD2727"/> <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=miguelnunorosa&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelnunorosa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
