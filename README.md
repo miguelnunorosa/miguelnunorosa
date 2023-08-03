@@ -3,9 +3,11 @@
 <img align="right" alt="Coder GIF" height=300 width=400 src="https://github.com/miguelnunorosa/miguelnunorosa/blob/main/code2.gif" />
 
 
+### :technologist: About Me :
+
 Welcome to my github repository. My name is Miguel, I'm from Portugal. <br>
 
-At this moment I try to starting a new carreer on development (web and mobile). Loving technology since 90's, using Linux (since 2006 - started with Debian, now I use Slackware/Ubuntu) on all machines with **FOSS** (Free Open Source Software). I love minimalism and simplicity! (following **KISS** philosophy - Keep it simple stupid) 😄
+At this moment I try to start a new career in development (web and mobile). Loving technology since the '90s, using Linux (since 2006 - started with Debian, now I use Ubuntu) on all machines with **FOSS** (**F**ree **O**pen **S**ource **S**oftware). I love minimalism and simplicity! (following **KISS** philosophy - **K**eep **I**t **S**imple **S**tupid) 😄
 
 <br>
 
