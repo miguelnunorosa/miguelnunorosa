@@ -1,6 +1,6 @@
 ## Hello World :wave:
 
-<img align="right" alt="Coder GIF" height=300 width=400 src="https://github.com/miguelnunorosa/miguelnunorosa/blob/main/code2.gif" />
+<img align="right" alt="Coder GIF" height=310 width=410 src="https://github.com/miguelnunorosa/miguelnunorosa/blob/main/code2.gif" />
 
 
 ### :technologist: About Me :
