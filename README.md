@@ -54,22 +54,3 @@ Contacts:
 
 
   
-
-
-
-<br><br> 
-
-
-## :dependabot: GitHub Stats
-
-[![](https://streak-stats.demolab.com?user=miguelnunorosa&hide_border=true)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=miguelnunorosa&show_icons=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelnunorosa&layout=compact)
-
-
-
-<br><br> 
-<!---
-## GitHub Details
-
-![Metrics](https://metrics.lecoq.io/miguelnunorosa?template=classic&base.header=0&isocalendar=1&languages=1&achievements=1&pagespeed=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Europe%2FLisbon&config.twemoji=true&config.octicon=true)
---->
