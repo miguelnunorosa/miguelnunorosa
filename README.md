@@ -22,9 +22,9 @@
 - 📝 Checkout my [Resume / CV](https://#)
 - 📃 Checkout my [Portfolio](https://miguelnunorosa.github.io)
 - 📫 How to reach me...<br>
-<a href=mailto:miguelrosa.programacao@gmail.com target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="Mail" alt="Java" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.facebook.com/miguelnunorosa" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Java" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.linkedin.com/in/miguel-nuno-rosa/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Java" width="40" height="40"/>&nbsp;</a>
+<a href=mailto:miguelrosa.programacao@gmail.com target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="Mail" alt="Java" width="40" height="40"/></a>
+<a href="https://www.facebook.com/miguelnunorosa" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Java" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/miguel-nuno-rosa/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Java" width="40" height="40"/></a>
 
 
 <br><br><br>
