@@ -3,7 +3,7 @@
 <img align="right" alt="Coder GIF" height=310 width=410 src="https://github.com/miguelnunorosa/miguelnunorosa/blob/main/code2.gif" />
 
 
-- 👋 hi, I'm Miguel and I'm from Portugal
+- 👋 Hi, I'm Miguel and I'm from Portugal
 - 💻 I’m interested in Flutter, Java, Database, GameDev...
 - 🎥 I’m currently learning all possible
 - I try to follow **KISS** philosophy (**K**eep **I**t **S**imple **S**tupid)
