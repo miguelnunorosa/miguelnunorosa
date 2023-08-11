@@ -3,36 +3,33 @@
 <img align="right" alt="Coder GIF" height=310 width=410 src="https://github.com/miguelnunorosa/miguelnunorosa/blob/main/code2.gif" />
 
 
-### :technologist: About Me :
+- 👋 hi, I'm Miguel and I'm from Portugal
+- 💻 I’m interested in Flutter, Java, Database, GameDev...
+- 🎥 I’m currently learning all possible
+- I try to follow **KISS** philosophy (**K**eep **I**t **S**imple **S**tupid)
+- 👨‍🎓 Adept and advocate FOSS (**F**ree **O**pen **S**ource **S**oftware)
+- 👨‍💻 Tech lover since 90's
+- 🎸 In my free time, I play Bass guitar (or trying to...), read (mostly crime books and thrillers), and do some algorithm challenges on  code platforms (for example, Codewars platform)
 
-Welcome to my GitHub repository. My name is Miguel, I'm from Portugal. <br>
 
-At this moment I try to start a new career in development (web and mobile). Loving technology since the '90s, using Linux (since 2006 - started with OpenSUSE, now I use Ubuntu) on all machines with **FOSS** (**F**ree **O**pen **S**ource **S**oftware). I love minimalism and simplicity! (following **KISS** philosophy - **K**eep **I**t **S**imple **S**tupid) 😄
 
-<br>
+<br><br><br>
 
-- :desktop_computer: Learn mobile development (native and multiplatform)
-- :desktop_computer: Learn web development (back-end technologies and their frameworks)
-- :basecamp: Learn Salesforce (Trailhead)
-- :guitar: In my free time, I play Bass guitar (or trying to...), read (mostly crime books and thrillers), and do some challenges on algorithm and code platforms (for example, Codewars platform)
 
-<br>
 
-Contacts:
+## ✨ Get the links to my social media:
 
-- 📝 Checkout my [Resume / CV](https://#) 
+- 📝 Checkout my [Resume / CV](https://#)
 - 📃 Checkout my [Portfolio](https://miguelnunorosa.github.io)
-- 📫 How to reach me [Mail](mailto:miguelrosa.programacao@gmail.com)
-- Social media:
+- 📫 How to reach me [Mail](mailto:miguelrosa.programacao@gmail.com) <br>
 <a href="https://www.facebook.com/miguelnunorosa" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Java" width="40" height="40"/>&nbsp;</a>
 <a href="https://www.linkedin.com/in/miguel-nuno-rosa/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Java" width="40" height="40"/>&nbsp;</a>
- 
 
 
+<br><br><br>
 
-<br><br> 
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Java" width="40" height="40"/>&nbsp;
