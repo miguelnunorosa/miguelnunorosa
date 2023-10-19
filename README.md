@@ -21,10 +21,9 @@
 
 - 📝 Checkout my [Resume / CV](https://#)
 - 📃 Checkout my [Portfolio](https://miguelnunorosa.github.io)
-- 📫 How to reach me...<br>
-<a href=mailto:miguelrosa.programacao@gmail.com target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="Mail" alt="Java" width="40" height="40"/></a>
-<a href="https://www.facebook.com/miguelnunorosa" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="Java" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/miguel-nuno-rosa/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Java" width="40" height="40"/></a>
+- 📫 How to reach me...<br>Mail
+<a href=mailto:miguelrosa.programacao@gmail.com target="_blank"><img src="https://static-00.iconduck.com/assets.00/gmail-icon-256x256-lp4z4kz6.png" title="Mail" alt="Mail" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/miguel-nuno-rosa/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Linkedin" width="40" height="40"/></a>
 
 
 <br><br><br>
