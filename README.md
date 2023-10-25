@@ -21,7 +21,7 @@
 
 - 📝 Checkout my [Resume / CV](https://#)
 - 📃 Checkout my [Portfolio](https://miguelnunorosa.github.io)
-- 📫 How to reach me...<br>
+- 📫 How to reach me...<br><br>
 <a href=mailto:miguelrosa.programacao@gmail.com target="_blank"><img src="https://static-00.iconduck.com/assets.00/gmail-icon-256x256-lp4z4kz6.png" title="Mail" alt="Mail" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/miguel-nuno-rosa/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Linkedin" width="40" height="40"/></a>
 
