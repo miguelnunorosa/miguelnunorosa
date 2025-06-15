@@ -50,4 +50,9 @@
 
 
 
+<br><br><br>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelnunorosa&hide_progress=false&theme=merko) ![Maddo's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelnunorosa&show_icons=true&theme=merko)
+
   
