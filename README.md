@@ -9,7 +9,7 @@
 - I try to follow **KISS** philosophy (**K**eep **I**t **S**imple **S**tupid)
 - 👨‍🎓 Adept and advocate FOSS (**F**ree **O**pen **S**ource **S**oftware)
 - 👨‍💻 Tech lover since 90's
-- 🎸 In my free time, I play Bass guitar (or trying to...), read (mostly crime books and thrillers), and do some algorithm challenges on  code platforms (for example, Codewars platform)
+- 🎸 In my free time, I play Bass guitar (or trying to...), read (mostly thrillers), and do some algorithm challenges on  code platforms (for example, Codewars platform)
 
 
 
