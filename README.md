@@ -26,7 +26,9 @@
 <a href="https://www.linkedin.com/in/miguel-nuno-rosa/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="Linkedin" width="40" height="40"/></a>
 
 
+
 <br><br><br>
+
 
 
 ## :hammer_and_wrench: Languages and Tools :
